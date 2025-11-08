@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-c=e$h^7g7qx$xnm31dymyi17@8gph#^%eqbx!4#+&c=8q0adqf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ueana-log.onrender.com', 'localhost', '127.0.0.1']
-
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
